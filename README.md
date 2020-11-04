@@ -1,6 +1,8 @@
 # ![](https://lh3.googleusercontent.com/gUN60cX0MEdjT7dLDgc63ZKl0wiwL_EyHa02JbKh9uuiKIul3c5tMymBgxVMglvvTBWf=h450-rw?raw=true "Tic Tac Toe Edge")
 Este projeto foi idealizado apenas para fazer parte do meu portfólio como demonstração de experiência e aprendizado.
 
+**Por ser um aplicativo pago, o código não será disponibilizado aqui no Github.**
+
 <a href="https://galaxy.store/98TTT"><img src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_big/GalaxyStore_Portuguese(Brazil).png?3" alt="Available on Samsung Galaxy Store" width="25%"></a>
 
 **Disponível apenas na Galaxy Store.**
@@ -13,7 +15,7 @@ O Tic Tac Toe Edge é um jogo e passatempo popular. É um jogo de regras extrema
 Você pode personalizar o jogo, incluindo o painel, dificuldade, emoticons e etc.
 Existem também 100 níveis onde você pode desbloquear itens.
 
-O jogo conta com algoritimo minimax com otimização poda alpha-beta para o modo de um jogador contra cpu.
+O jogo conta com algoritimo **minimax** com otimização **poda alpha-beta** para o modo de um jogador contra cpu.
 
 ### O que foi utilizado:
 
